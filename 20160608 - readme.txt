@@ -1,0 +1,27 @@
+Scripts were used to download and proccess the data. The sourcecode can be found within the same folder as this file
+They were run in the following order:
+
+1. MarmalAidChamp.R (ran on GenomeDK cluster)
+2. betaCount.R (ran on GenomeDK cluster)
+3. savePartsMini.R (ran on GenomeDK cluster)
+
+-----------------------
+
+
+Additionally, all samples included in MarmalAid were run through ChAMP by the following two scripts on GenomeDK cluster:
+RunChAMPProcess.sh
+ChAMPProcess.R
+
+The results can be found in:
+O:\HE_MOMA-Data\MICROARRAY\Prostata\450K MarmalAid\resultsChamp
+
+
+
+
+-------------------------------
+All betavalues can be found in:
+O:\HE_MOMA-Data\MICROARRAY\Prostata\450K_MarmalAid\ProcessedData\betavalues
+
+There is one file for each of the 485511 probes
+They were constructed from running:
+saveindu.R (ran on GenomeDK cluster)

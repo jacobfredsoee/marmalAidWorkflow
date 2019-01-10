@@ -1,0 +1,14 @@
+Failed in load:
+[1] "Unsuccesful file: GSM990563"
+
+Failed in ChAMP:
+ [1] "Failed datasets: GSM886048"                   
+ [2] "Failed datasets: GSM1009716"                  
+ [3] "Failed datasets: TCGA-CN-6011-01A-11D-1684-05"
+ [4] "Failed datasets: TCGA-BB-4225-01A-01D-1433-05"
+ [5] "Failed datasets: GSM937110"                   
+ [6] "Failed datasets: GSM937125"                   
+ [7] "Failed datasets: GSM937133"                   
+ [8] "Failed datasets: GSM937143"                   
+ [9] "Failed datasets: GSM1240239"                  
+[10] "Failed datasets: GSM1303650" 
